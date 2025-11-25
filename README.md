@@ -77,8 +77,7 @@ Clean UI stopwatch with lap recording.
 
 ## 📫 Contact  
 📧 Email: **kathir.dev2321@gmail.com**  
-🌐 Portfolio: *(Add your portfolio link when deployed)*  
-📸 Instagram (Dev Page): **@your.dev.id** *(optional)*  
+🌐 Portfolio:(https://kathirvel-portfolio.vercel.app/) 
 
 ---
 
